@@ -1,0 +1,6 @@
+#
+# additional system.prop for i9100 emulated storage mode
+#
+
+# Enable emulated storage mode
+ro.vold.primary_physical=0
